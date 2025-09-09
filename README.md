@@ -1,4 +1,5 @@
 # Social Spark - AI-Powered Viral Trend Analysis
+### *Monitor, Analyze, and Generate Viral Content with AI*
 
 ## 📌 Overview
 **Social Spark** is an AI-driven web platform designed to analyze trending topics on **TikTok** and **X (formerly Twitter)**. By leveraging **Natural Language Processing (NLP)** and **AI-powered content generation**, the platform enables users to monitor viral trends, perform sentiment analysis, and generate engaging content automatically.
